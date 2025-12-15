@@ -11,7 +11,6 @@ I’m an AI/ML Engineer with **3+ years of hands-on experience** in designing, t
 
 * 🔭 Currently working on **end-to-end AI/ML projects with real-world UI & production deployment**
 * 🌱 Actively exploring **Deep Learning, Transformers, Vision-Language Models & Scalable ML Systems**
-* 🤝 Open to collaborations in **AI, ML, Data Science, and React-based ML applications**
 * 💬 Ask me about **Python, Machine Learning, Neural Networks, YOLO, NLP, OpenVINO, MLOps**
 * 🎯 Long-term goal: **Professor & Researcher in Artificial Intelligence**
 
