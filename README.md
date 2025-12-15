@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Aleesha
 
-👩‍💻 **AI/ML Engineer | Research-Oriented | UI-Driven ML Enthusiast**  
+👩‍💻 **AI/ML Engineer at Valtrans, UAE| Research-Oriented | Deep Learning**  
 🎓 **Aspiring PhD Candidate** with a strong interest in **teaching, applied research, and real-world AI systems**
 
 ---
@@ -59,7 +59,7 @@ I’m an AI/ML Engineer with **3+ years of hands-on experience** in designing, t
 ### 🔹 Vehicle Make & Model Recognition
 **Deep Learning-based Vehicle Classification**
 
-* CNN-based multi-class classification
+* Densenet-based multi-class classification
 * Trained on imbalanced real-world datasets
 * Designed for industrial use cases
 
@@ -97,9 +97,9 @@ I’m an AI/ML Engineer with **3+ years of hands-on experience** in designing, t
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: **(Add your LinkedIn URL)**
-* 📧 Email: **(Add your professional email)**
-* 🌐 Portfolio: **(Optional – if available)**
+* 💼 LinkedIn: **(https://www.linkedin.com/in/aleesha-k-b-012333171)**
+* 📧 Email: **(aleesha@parkonic.ae)**
+* 🌐 Medium: **(https://medium.com/@aleesha.mec)**
 
 ---
 
