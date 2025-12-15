@@ -91,12 +91,7 @@ I’m an AI/ML Engineer with **3+ years of hands-on experience** in designing, t
 * Intelligent Automation
 * Scalable & Ethical AI Systems
 
----
 
-## 📈 GitHub Stats
-
-![Aleesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
