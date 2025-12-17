@@ -37,12 +37,12 @@ I’m an AI/ML Engineer with **3+ years of hands-on experience** in designing, t
 
 ## 📂 Featured AI / ML Projects
 
-### 🔹 E-Commerce Recommendation System ⭐
-**Collaborative Filtering & ML-based Recommendation Engine**
+### 🔹 Vehicle Make & Model Recognition ⭐
+**Deep Learning-based Vehicle Classification**
 
-* Built scalable recommendation pipelines
-* Improved user engagement through personalized ranking
-* Designed for real-world deployment
+* Densenet-based multi-class classification
+* Trained on imbalanced real-world datasets
+* Designed for industrial use cases
 
 ---
 
@@ -55,14 +55,16 @@ I’m an AI/ML Engineer with **3+ years of hands-on experience** in designing, t
 
 ---
 
-### 🔹 Vehicle Make & Model Recognition
-**Deep Learning-based Vehicle Classification**
+### 🔹 E-Commerce Recommendation System 
+**Collaborative Filtering & ML-based Recommendation Engine**
 
-* Densenet-based multi-class classification
-* Trained on imbalanced real-world datasets
-* Designed for industrial use cases
+* Built scalable recommendation pipelines
+* Improved user engagement through personalized ranking
+* Designed for real-world deployment
 
 ---
+
+
 
 ### 🔹 FindMeNow – Facial Recognition Platform
 **AI-powered system for missing children identification**
